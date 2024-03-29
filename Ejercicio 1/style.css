@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    font-family: DM_sans;
+}
+.card {
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+img {
+    width: 180px;
+    padding-top: 30px;
+    filter: drop-shadow(3px 3px 12px #ffffff52);
+}
+.card_title {
+    color: #2920D5;
+    text-shadow: 0px 0px 30px #ffffff68;
+    padding-top: 25px;
+    font-size: 28px;
+    margin: 0;
+}
+.card_subtitle {
+    padding-top: 0%;
+    color: white;
+    font-size: 15px;
+    font-weight: 300;
+}
+.card_content {
+    color: white;
+    width: center;
+    font-size: 15px;
+    padding: 50px;
+    padding-top: 25px;
+    text-align: center;
+    font-weight: 100;
+}
